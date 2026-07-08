@@ -4,7 +4,7 @@ public class BankAccount{
   double balance;
   int accountNumber;
 
-  //contructor
+  //constructor
   public BankAccount(String ownerName,double balance,int accountNumber){
     this.ownerName=ownerName;
     this.balance=balance;
